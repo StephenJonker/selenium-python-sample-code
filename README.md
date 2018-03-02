@@ -1,2 +1,2 @@
 # Selenium Python Sample code 
-Selenium Python Sample Code
+Selenium WebDriver Python Sample Code
